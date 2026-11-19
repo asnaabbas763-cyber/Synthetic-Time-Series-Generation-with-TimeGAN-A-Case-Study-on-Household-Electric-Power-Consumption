@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Synthetic Time Series Generation with TimeGAN: A Case Study on Household Electric Power Consumption"
+authors:
+  - family-names: "P S"
+    given-names: "Gayathri"
+  - family-names: "Abbas"
+    given-names: "Asna"
+date-released: 2026-11-19
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+keywords:
+  - TimeGAN
+  - synthetic data
+  - time series
+  - GAN
+  - energy
